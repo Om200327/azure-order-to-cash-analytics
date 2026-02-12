@@ -161,6 +161,23 @@ Refer `/Screenshots` folder for:
 
 ---
 
+## Power BI Dashboard Preview
+
+### Executive Overview
+![Dashboard](Screenshots/10_powerbi_dashboard.png)
+
+The dashboard provides management visibility into revenue realization, customer payment behavior, and operational efficiency across the Order-to-Cash cycle.
+
+Users can:
+- monitor monthly revenue performance
+- identify delayed payments
+- track shipment efficiency
+- analyze customer contribution
+
+
 ## Outcome
 
 This project replicates how an organization builds an internal analytics platform to track revenue realization, operational efficiency, and customer payment behavior from operational transaction data.
+
+---
+
