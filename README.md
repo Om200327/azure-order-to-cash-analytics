@@ -161,6 +161,21 @@ Refer `/Screenshots` folder for:
 
 ---
 
+## Pipeline Execution Proof
+
+### Data Lake Storage
+![Blob](Screenshots/02_blob_storage_raw_files.png)
+
+### ETL Execution
+![ETL](Screenshots/03_etl_pipeline_execution.png)
+
+### SQL Tables Loaded
+![SQL](Screenshots/05_sql_tables_loaded.png)
+
+### Star Schema Model
+![Model](Screenshots/08_powerbi_data_model.png)
+
+
 ## Power BI Dashboard Preview
 
 ### Executive Overview
